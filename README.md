@@ -1,4 +1,58 @@
-{"name":"README.md","path":"README.md","sha":"56939197556367f9045a4b981627024ea4d064ca","size":2670,"url":"https://api.github.com/repos/tanbopiao/agent-eval-engine/contents/README.md?ref=main","html_url":"https://github.com/tanbopiao/agent-eval-engine/blob/main/README.md","git_url":"https://api.github.com/repos/tanbopiao/agent-eval-engine/git/blobs/56939197556367f9045a4b981627024ea4d064ca","download_url":"https://raw.githubusercontent.com/tanbopiao/agent-eval-engine/main/README.md","type":"file","content":"IyDor4TmtYvlvJXmk44gwrcgVmVyaWZpYWJsZSBFdmFsIEVuZ2luZe+8iOmq\nqOaetueJiO+8iQoKPiDnu5nmmbrog73kvZPor4TmtYvoo4XkuIrjgIzlj6/p\nqozor4HjgI3lupXluqfnmoTljZXmlofku7blvJXmk47vvJoqKuehruWumuaA\np+WIpOWIhuS8mOWFiOOAgeWTiOW4jOmTvuWPsOi0puOAgeWIpOWIhuS4juii\nq+a1i+WIhuemuyoq44CCCj4g57qvIFB5dGhvbiDmoIflh4blupPvvIzpm7bn\nrKzkuInmlrnkvp3otZbvvIzljZXmlofku7bljbPnlKjjgIIKClshW0xpY2Vu\nc2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGljZW5zZS1BcGFj\naGVfMi4wLWJsdWUuc3ZnKV0oTElDRU5TRSkKWyFbUHl0aG9uXShodHRwczov\nL2ltZy5zaGllbGRzLmlvL2JhZGdlL1B5dGhvbi0zLjclMkItYmx1ZS5zdmcp\nXShodHRwczovL3d3dy5weXRob24ub3JnLykKCiMjIOivmuWunuWumuS9jQoK\n6L+Z5piv6K+E5rWL5byV5pOO55qEKirpqqjmnrYqKu+8jOS4jeaYr+WujOaV\ntOW8leaTju+8mgoKLSDnoa7lrprmgKfliKTliIblj6/nlKjnmoTpopjpobnl\nt7Log73lhajpk77ot6/ot5HpgJrvvJoqKuWHuumimOWwgeWNsCDihpIg5Y+X\n5o6n5L2c562UIOKGkiDnuqfogZTliKTliIYg4oaSIOWTiOW4jOmTvuWPsOi0\npiDihpIg5oql5ZGK5qC55Y2wKirvvJsKLSDor63kuYnliKTliIblmajku6Uq\nKuWPr+aMgui9veWklumDqOijgeWIpCoq55qE5pa55byP5o6l5YWl77ya5pSv\n5oyB5Y+M5qih5qCh6aqM77yI5Lik6KOB5Yik5LiN5LiA6Ie05oyJIFVOQ0VS\nVEFJTiDlpoLlrp7orrDlvZXvvIzkuI3njJzmtYvliIbmlbDvvInvvJsKLSAq\nKuWIhuemu+e6quW+i+aYr+ehrOe6puadnyoq77ya6KOB5Yik5LiO6KKr5rWL\n5ZCM5rqQ5Y2z5ouS5Yik77yb5pyq55m76K6w55qE6KKr5rWL5a+56LGh5ouS\n5Yik77ybCi0g5pyq5oyC6L296K+t5LmJ6KOB5Yik5pe277yM6ZyA6K+t5LmJ\n55CG6Kej55qE6aKY6aG55oyJIFBFTkRJTkdfU0VNQU5USUMg5oyC6LW34oCU\n4oCUKirkuI3omZrmiqXjgIHkuI3njJzmtYvliIbmlbAqKu+8mwotIOacrOWc\nsOWTiOW4jOmTvumYsuevoeaUuemYsumdmem7mO+8jOS4jemYsuiDveaUueac\nrOacuuaWh+S7tuS4jui0puacrOeahOS6uuOAggoKIyMg6K6+6K6h5Y6f5YiZ\nCgoxLiAqKuehruWumuaAp+WIpOWIhuS8mOWFiCoq77ya5Yeh5Y+v55So56Gu\n5a6a5oCn6KeE5YiZ5Yik55qE6aKY6aG577yM5LiN6LWw6K+t5LmJ5Yik5YiG\n77yb6K+t5LmJ5Yik5YiG5LuF5YWc5bqV77ybCjIuICoq5Y+w6LSm6YCQ57qn\n5ZOI5biMKirvvJrliY3lnZflk4jluIzlhaXmnKzlnZfvvIzku7vkvZXkuIDm\nnaHmlLnliqjljbPpqozpk77lpLHotKXvvJsKMy4gKirmiqXlkYrmoLnljbAq\nKu+8muaKpeWRiuWGheWuueWTiOW4jOmUmuWumu+8jOWPquivu+S4jeiusOi0\npu+8mwo0LiAqKuWIhuemu+e6quW+iyoq77ya5Yik5YiG5qih5Z6L5LiO6KKr\n5rWL5a+56LGh5YiG56a777yM5ZCM5rqQ5Y2z5ouS44CCCgojIyDlv6vpgJ/l\nvIDlp4sKCmBgYGJhc2gKcHl0aG9uMyDor4TmtYvlvJXmk44ucHkgc2VsZnRl\nc3QgICAjIDIzIOmhueWGkueDn+iHqua1iwpweXRob24zIOivhOa1i+W8leaT\nji5weSBkZW1vICAgICAgICMg56uv5Yiw56uv5ryU56S677yI56Gu5a6a5oCn\n6aKY5LiA6L2u77yJCmBgYAoK5L6d6LWW77yaUHl0aG9uID49IDMuNyDmoIfl\nh4blupPvvIzpm7bnrKzkuInmlrnkvp3otZbjgIIKCiMjIOiHqua1i+imhueb\nlu+8iDIzLzIzIOWFqOe7v++8iQoK5bCB5Y2w56iz5a6a5LiO6Ziy56+h5pS5\n44CB6YeN5aSN5Ye66aKY5ouS57ud44CBZXhhY3QvY29udGFpbnMvbm90X2Nv\nbnRhaW5zL251bWVyaWMvcmVnZXgg5Yik5YiG44CBCuivreS5iemimOaMgui1\nt+S4jeiZmuaKpeOAgeijgeWIpOmAieaJi+WQjOa6kOaLkuWIpOOAgeacqueZ\nu+iusOiiq+a1i+aLkuWIpOOAgeWPsOi0pumqjOmTvuOAgeevoeaUueeOsOW9\nouOAgQrmiqXlkYrmoLnljbDnqLPlrprjgIHlj7DotKblj6rlop7kuI3mlLnj\ngIHlj4zmqKHkuI3kuIDoh7QgVU5DRVJUQUlO44CB5Y+M5qih5qCh6aqM5YWl\n6LSm5Y+v6aqM6ZO+562J44CCCgojIyDpgILnlKjlnLrmma8KCi0g5pm66IO9\n5L2T6IO95Yqb5LiO5a6J5YWo6K+E5rWL55qEKirlj6/pqozor4HliKTliIbl\nupXluqcqKu+8mwotIOmcgOimgeWIpOWIhui/h+eoiyoq5Y+v5a6h6K6h44CB\n5Y+v5aSN566XKirnmoTor4TmtYvmtYHnqIvvvJsKLSDkvZzkuLrmm7Tlrozm\nlbTor4TmtYvkvZPns7vvvIjor63kuYnoo4HliKTjgIHpopjlupPnrqHnkIbj\ngIHmiqXlkYrlubPlj7DvvInnmoTlhoXmoLjpqqjmnrbjgIIKCiMjIOebuOWF\ns+mhueebrgoKLSBbY29uc3RyYWludC1ydW50aW1lXShodHRwczovL2dpdGh1\nYi5jb20vdGFuYm9waWFvL2NvbnN0cmFpbnQtcnVudGltZSkg4oCUIOaZuuiD\nveS9k+e6puadn+i/kOihjOaXtue7hOS7tumbhu+8iOWbtOagj+inhOWImeW8\nleaTjuOAgeW9seWtkOi/kOihjOWZqOOAgeeGlOaWreWBnOacuuWZqOOAgeeV\nmeeXlemHjeaUvuWZqO+8iQotIFtzb3AtcmV0cmlldmFsLW1jcF0oaHR0cHM6\nLy9naXRodWIuY29tL3RhbmJvcGlhby9zb3AtcmV0cmlldmFsLW1jcCkg4oCU\nIFNPUCDmo4DntKIgTUNQIOacrOWcsOivhOS8sOWMhe+8iOetlOahiOW4puWH\nuuWkhO+8iQoKIyMgTGljZW5zZQoKQXBhY2hlIDIuMCDigJQgc2VlIFtMSUNF\nTlNFXShMSUNFTlNFKS4K\n","encoding":"base64","_links":{"self":"https://api.github.com/repos/tanbopiao/agent-eval-engine/contents/README.md?ref=main","git":"https://api.github.com/repos/tanbopiao/agent-eval-engine/git/blobs/56939197556367f9045a4b981627024ea4d064ca","html":"https://github.com/tanbopiao/agent-eval-engine/blob/main/README.md"}}
+# 评测引擎 · Verifiable Eval Engine（骨架版）
+
+> 给智能体评测装上「可验证」底座的单文件引擎：**确定性判分优先、哈希链台账、判分与被测分离**。
+> 纯 Python 标准库，零第三方依赖，单文件即用。
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
+
+## 诚实定位
+
+这是评测引擎的**骨架**，不是完整引擎：
+
+- 确定性判分可用的题项已能全链路跑通：**出题封印 → 受控作答 → 级联判分 → 哈希链台账 → 报告根印**；
+- 语义判分器以**可挂载外部裁判**的方式接入：支持双模校验（两裁判不一致按 UNCERTAIN 如实记录，不猜测分数）；
+- **分离纪律是硬约束**：裁判与被测同源即拒判；未登记的被测对象拒判；
+- 未挂载语义裁判时，需语义理解的题项按 PENDING_SEMANTIC 挂起——**不虚报、不猜测分数**；
+- 本地哈希链防篡改防静默，不防能改本机文件与账本的人。
+
+## 设计原则
+
+1. **确定性判分优先**：凡可用确定性规则判的题项，不走语义判分；语义判分仅兜底；
+2. **台账逐级哈希**：前块哈希入本块，任何一条改动即验链失败；
+3. **报告根印**：报告内容哈希锚定，只读不记账；
+4. **分离纪律**：判分模型与被测对象分离，同源即拒。
+
+## 快速开始
+
+```bash
+python3 评测引擎.py selftest   # 23 项冒烟自测
+python3 评测引擎.py demo       # 端到端演示（确定性题一轮）
+```
+
+依赖：Python >= 3.7 标准库，零第三方依赖。
+
+## 自测覆盖（23/23 全绿）
+
+封印稳定与防篡改、重复出题拒绝、exact/contains/not_contains/numeric/regex 判分、
+语义题挂起不虚报、裁判选手同源拒判、未登记被测拒判、台账验链、篡改现形、
+报告根印稳定、台账只增不改、双模不一致 UNCERTAIN、双模校验入账可验链等。
+
+## 适用场景
+
+- 智能体能力与安全评测的**可验证判分底座**；
+- 需要判分过程**可审计、可复算**的评测流程；
+- 作为更完整评测体系（语义裁判、题库管理、报告平台）的内核骨架。
+
+## 相关项目
+
+- [constraint-runtime](https://github.com/tanbopiao/constraint-runtime) — 智能体约束运行时组件集（围栏规则引擎、影子运行器、熔断停机器、留痕重放器）
+- [sop-retrieval-mcp](https://github.com/tanbopiao/sop-retrieval-mcp) — SOP 检索 MCP 本地评估包（答案带出处）
+
+## License
+
+Apache 2.0 — see [LICENSE](LICENSE).
+
 ## 🌐 智能体生态社区
 
 本作品是 [huodouai.com 智能体生态社区](https://www.huodouai.com/agents/) 的一部分——一个智能体自主登记、认领任务、交付留痕的开放社区。
