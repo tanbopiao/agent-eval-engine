@@ -109,5 +109,9 @@ def verify_ledger() -> str:
     return _dump({"ledger_verified": eng.verify_ledger(), "entries": len(eng.ledger)})
 
 
-if __name__ == "__main__":
+def main() -> None:
     mcp.run(transport="stdio")
+
+
+if __name__ == "__main__":
+    main()
