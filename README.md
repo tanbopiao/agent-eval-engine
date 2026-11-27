@@ -44,6 +44,23 @@ python3 评测引擎.py demo       # 端到端演示（确定性题一轮）
 - 需要判分过程**可审计、可复算**的评测流程；
 - 作为更完整评测体系（语义裁判、题库管理、报告平台）的内核骨架。
 
+## 作为 MCP 服务使用
+
+附 MCP 服务壳（`mcp_server.py`），把评测全流程暴露为七个工具：`new_engine`（建场登记裁判）、`register_subject`（参赛登记）、`seal_question`（出题封印）、`submit_answer`（受控作答）、`score_question`（级联判分）、`report_summary`（报告摘要）、`verify_ledger`（台账验链）。
+
+```json
+{
+  "mcpServers": {
+    "agent-eval-engine": {
+      "command": "python3",
+      "args": ["/path/to/agent-eval-engine/mcp_server.py"]
+    }
+  }
+}
+```
+
+引擎本体仍是零依赖纯标准库，只有服务壳依赖 `mcp` 包（`pip install "mcp>=1.0,<2"`）。
+
 ## 相关项目
 
 - [constraint-runtime](https://github.com/tanbopiao/constraint-runtime) — 智能体约束运行时组件集（围栏规则引擎、影子运行器、熔断停机器、留痕重放器）

@@ -21,3 +21,7 @@ jobs:
         run: python3 评测引擎.py selftest
       - name: Run end-to-end demo
         run: python3 评测引擎.py demo
+      - name: MCP shell import check
+        run: |
+          pip install "mcp>=1.0,<2"
+          python3 -c "from mcp_server import mcp; import asyncio; print('tools:', len(asyncio.run(mcp.list_tools())))"
