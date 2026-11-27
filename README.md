@@ -25,6 +25,14 @@
 3. **报告根印**：报告内容哈希锚定，只读不记账；
 4. **分离纪律**：判分模型与被测对象分离，同源即拒。
 
+## 安装（PyPI）
+
+```bash
+pip install agent-eval-engine
+```
+
+安装后即得 MCP 服务壳命令行入口 `agent-eval-engine`（STDIO 传输）。已收录于官方 MCP Registry：`io.github.tanbopiao/agent-eval-engine`。引擎本体零第三方依赖，也可直接从源码运行（见下文）。
+
 ## 快速开始
 
 ```bash
