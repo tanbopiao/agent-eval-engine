@@ -1,3 +1,5 @@
+<!-- mcp-name: io.github.tanbopiao/agent-eval-engine -->
+
 # 评测引擎 · Verifiable Eval Engine（骨架版）
 
 > 给智能体评测装上「可验证」底座的单文件引擎：**确定性判分优先、哈希链台账、判分与被测分离**。
