@@ -399,7 +399,7 @@ def selftest():
           and r2["level"] == LEVEL_SEMANTIC and "xfyun-generalv3.5" in r2["判分模型"])
     eng.出题("S3", "开放题B", {"type": "semantic"})
     eng.提交作答("S3", "随意作答")
-    check("语义判分 FAIL 落判", eng.判分("S3")["verdict"] == "FAIL"
+    check("语义判分 未过落判", eng.判分("S3")["verdict"] == "FAIL"
           and eng.results["S3"]["score"] == 0)
 
     # 10 双模校验：不一致按 UNCERTAIN 如实记录，不猜分
